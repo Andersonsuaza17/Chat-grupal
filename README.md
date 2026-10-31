@@ -1,9 +1,8 @@
 # Chat grupal en Java usando sockets TCP
 
 ## Integrantes
-- Integrante 1: [Nombre completo]
-- Integrante 2: [Nombre completo]
-- Integrante 3: [Nombre completo, si aplica]
+- Integrante 1: Anderson suaza
+
 
 ## Descripción
 Aplicación de chat grupal por consola. Varios clientes se conectan a un servidor TCP, envían mensajes y el servidor los distribuye a los demás clientes conectados.
