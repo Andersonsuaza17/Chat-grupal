@@ -75,4 +75,3 @@ El servidor muestra los eventos de conexión, los mensajes y las desconexiones.
 
 > Utilizamos ChatGPT como apoyo para proponer una estructura inicial del proyecto, explicar sockets TCP e hilos, y revisar el código. El grupo compiló y probó el programa, verificó la conexión de al menos dos clientes y revisó el funcionamiento del hilo por cliente. Los integrantes estudiaron el código y pueden explicar sus partes.
 
-No afirmen pruebas o verificaciones que todavía no hayan realizado. Completen los nombres de los integrantes antes de publicar el repositorio.
